@@ -1,5 +1,5 @@
 What is the project ?
-The ToDoManager helps you keep track of all your to-dos so that you don't miss out on something important in today's busy life. It helps  organize your everyday life and you don't have to worry about remembering every peice of work because the ToDoManager does it for you.
+The ToDoManager helps you keep track of all your to-dos so that you don't miss out on something important in today's busy life. It helps  organize your everyday life and you don't have to worry about remembering every piece of work because the ToDoManager does it for you.
 
 What does it do?
 Using the ToDoManagaer, you can :
